@@ -1,0 +1,22 @@
+{
+  "name": "demo-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadgetfather/demo-package.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "gadgetfather",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadgetfather/demo-package/issues"
+  },
+  "homepage": "https://github.com/gadgetfather/demo-package#readme"
+}
